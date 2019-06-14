@@ -61,11 +61,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of West of England (September 2000 to June 2003)
-
-- British Administration
-- BA (Hons) 2.2
-
 #### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
 
 - Programming for Beginners Using Python
