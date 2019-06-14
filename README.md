@@ -1,6 +1,6 @@
 ## Will Howes
 
-I am a friendly and hard-working team player with a passion for writing clean and readable code. I am currently on a 12-week intensive bootcamp with Makers Academy, making the transformation from an enthusiastic amateur coder to a confident and highly competent software developer. I am looking for my first role as a junior developer working in a team equally enthusiastic about coding and with whom I can continue to develop my skills. 
+I am a full-stack developer with a passion for writing clean and readable code. I am a friendly and hard-working team player looking for my first role as a junior developer. Having recently embarked on the 12-week intensive bootcamp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic coder who does a bit in his spare time to a confident and highly competent software developer. I hope to joing a team that is equally as enthusiastic about coding as me and with whom I can continue to develop my skills. 
 
 ## Skills
 
@@ -83,6 +83,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Adams & Remers LLP** (August 2017 to June 2019)    
-*Licensed Conveyancer*  
+*Licensed Conveyancer*
+- Mangaging my own case-load with a variety of transaction and in particular residential property sales and purchases. 
+- Designing standard letters, forms, checklists, guidance leaflets for clients. 
+- Keeping colleagues updated with legislation and transactional changes to conveyancing. 
+
 **Streeter Marshall LLP** (November 2011 to August 2017)   
 *Licensed Conveayncer*  
+- Managing my own case-load in residential conveyancing (as above with Adams & Remers)
+- Working with colleagues to improvement case management system with pre-populated letters and forms.
+- Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
+
+
