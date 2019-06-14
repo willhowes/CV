@@ -1,6 +1,6 @@
 ## Will Howes
 
-I am a full-stack developer with a passion for writing clean and readable code. I am a friendly and hard-working team player looking for my first role as a junior developer. Having recently embarked on the 12-week intensive bootcamp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic coder who does a bit in his spare time to a confident and highly competent software developer. I hope to joing a team that is equally as enthusiastic about coding as me and with whom I can continue to develop my skills. 
+I am a full-stack developer with a passion for writing clean and readable code. I am a friendly and hard-working team player looking for my first role as a junior developer. Having recently embarked on the 12-week intensive bootcamp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic coder who does a bit in his spare time to a confident and highly competent software developer. I hope to join a team that is as enthusiastic about coding and with whom I can continue to develop my skills. 
 
 ## Skills
 
