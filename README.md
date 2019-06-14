@@ -1,6 +1,6 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a friendly and hard-working team player with a passion for writing clean and readable code. I am currently on a 12-week intensive bootcamp with Makers Academy, making the transformation from an enthusiastic amateur coder to a confident and highly competent software developer. I am looking for my first role as a junior developer working in a team equally enthusiastic about coding and with whom I can continue to develop my skills. 
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June-Sept 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of West of England (September 2000 to June 2003)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- British Administration
+- BA (Hons) 2.2
 
-#### Any other qualifications
+#### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
+
+- Programming for Beginners Using Python
+- Introduction to html, CSS and JavaScript
+
+#### Council of Licensed Conveyancers Distance Learning Course (2010 to 2013
+
+- Qualified as a Licenced conveyancer in 2013, achieving highest result in the year with a distinction in Conveyancing Law & Practice. 
+
+#### University of West of England (September 2000 to June 2003)
+
+- British Administration
+- BA (Hons) 2.2
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Adams & Remers LLP** (August 2017 to June 2019)    
+*Licensed Conveyancer*  
+**Streeter Marshall LLP** (November 2011 to August 2017)   
+*Licensed Conveayncer*  
