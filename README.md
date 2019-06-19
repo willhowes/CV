@@ -77,3 +77,12 @@ I have a calmness under pressure, enabling me to be clear in my decision making 
 - Managing my own case-load in residential conveyancing (as above with Adams & Remers)
 - Working with colleagues to improve case management system with pre-populated letters and forms.
 - Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
+
+#### Personal Interests and Responsibilities
+- I write and play my own music, and enjoy going to watch live bands. 
+- I take part in and volunteer for my local ParkRun, and regularly compete in 10k, 10 mile and half marathon races.
+- I am a Director and the Company Secretary of the company that owns the freehold of the block of flats I live in.
+
+#### References
+Professional and personal references are available on request.
+
