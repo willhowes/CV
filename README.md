@@ -37,21 +37,47 @@ I have a calmness under pressure, enabling me to be clear in my decision making 
 
 #### Makers Academy (June-Sept 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Attending Makers Academy has been an incredible experienced. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course my coding skills been transformed. For example, at the start of the course I barely new what Test Driven Developmnent ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which has made me a more effective pair programmer and team player. At Makers Academy you encoruraged to self-learn and set your own goals and since the start of the course I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place I am very well equiped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+These are some of the skills I have gained from attending Makers Academy. 
+
+##### I can make software
+* I can TDD anything
+* I can program fluently
+* I can debug anything
+* I can model anything
+* I can refactor anything
+* I have a methodical approach to solving problems
+
+##### I'm equipped for long term growth
+
+* I manage my own wellbeing
+* I can learn anything by myself.
+  - In week 5 of the 
+
+##### I help my teams succeed
+
+* I use an agile product development process
+* I write code that is easy to change
+* I can justify the way I work
+* I grow collaboratively
+
+
+* Curious and passionate about code. [PROVIDE EVIDENCE]
+* Fast, independent learner [PROVIDE EVIDENCE]
+* Great collaborator [PROVIDE EVIDENCE]
+
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, Rails, JavaScript
+* RSpec, Jasmine
 
 #### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
 
 - Programming for Beginners Using Python
 - Introduction to html, CSS and JavaScript
 
-#### Council of Licensed Conveyancers Distance Learning Course (2010 to 2013
+#### Council of Licensed Conveyancers Distance Learning Course (2010 to 2013)
 
 - Qualified as a Licenced conveyancer in 2013, achieving the highest result in the year with a distinction in Conveyancing Law & Practice. 
 
