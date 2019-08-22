@@ -53,7 +53,7 @@ These are some of the skills I have gained from attending Makers Academy.
 
 * I manage my own wellbeing
 * I can learn anything by myself.
-  - In week 5 of the 
+  - In week 5 of the course, having had only a very basic grap of Javascript, I was able to become comptent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I picked up how test drive in Python in a matter of an hours. This shows I can learn quickly and effectively by myself. 
 
 ##### I help my teams succeed
 
