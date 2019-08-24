@@ -1,4 +1,5 @@
-## Will Howes
+# Will Howes
+### Full Stack Developer
 
 I am a full-stack developer with a passion for writing clean and readable code. Having recently embarked on the 12-week intensive boot camp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic amateur coder to a confident and highly competent software developer. I am a friendly and hard-working team player looking for my first role as a junior developer. I hope to join a team that is enthusiastic about coding and with whom I can continue to develop my skills. 
 
@@ -86,15 +87,11 @@ These are some of the skills I have gained from attending Makers Academy.
 - British Administration
 - BA (Hons) 2.2
 
-#### Reigate Grammar School (1992 to 2000) 	
-- A-Levels:	2 x C 	(Sports Studies, Business Studies), 1 x D 	(History)
-- GCSEs: 	10 (A*–C grades)
-
 ## Experience
 
 **Adams & Remers LLP** (August 2017 to June 2019)    
 *Licensed Conveyancer*
-- Managing my own case-load with a variety of transaction and in particular residential property sales and purchases. 
+- Managing my own case-load with a variety of transactions and in particular residential property sales and purchases. 
 - Designing standard letters, forms, checklists, guidance leaflets for clients. 
 - Keeping colleagues updated with legislation and transactional changes to conveyancing. 
 
@@ -105,8 +102,9 @@ These are some of the skills I have gained from attending Makers Academy.
 - Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
 
 #### Personal Interests and Responsibilities
-- I write and play my own music, and enjoy going to watch live bands. 
+- I write and play my own music, and enjoy going to gigs in Brighton and London.
 - I take part in and volunteer for my local ParkRun, and regularly compete in 10k, 10 mile and half marathon races.
+- I am a long suffering supporter of the England Mens Cricket Team and try to get to a watch them a few times each summer.  
 - I am a Director and the Company Secretary of the company that owns the freehold of the block of flats I live in.
 
 #### References
