@@ -1,7 +1,10 @@
 # Will Howes
 **Full Stack Developer**
 
+[My blog](https://medium.com/@williameldenhowes)
+
 ## Profile
+
 
 I am a full-stack developer with a passion for writing clean and readable code. Having recently embarked on the 12-week intensive boot camp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic amateur coder to a confident and highly competent software developer. I am a friendly and hard-working team player looking for my first role as a junior developer. I hope to join a team that is enthusiastic about coding and with whom I can continue to develop my skills. 
 
