@@ -4,7 +4,7 @@
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
 
-Having rekindled my love of coding in the last few years, this Spring I took a leap of faith leaving my previous career as a Licenced Conveyancer and embarking on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. I can write clean and readable code and make valuable contributions to the teams I work in. I have demonstrated at Makers and in my previous career that I am a friendly and hard-working team player with excellent communication skills. 
+Having rekindled my love of coding in the last few years, this Spring I took a leap of faith leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. I can write clean and readable code and make valuable contributions to the teams I work in. I have demonstrated at Makers and in my previous career that I am a friendly and hard-working team player with excellent communication skills. 
 
 I am looking for my first role as a junior developer and am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
 
@@ -41,7 +41,7 @@ Whilst I believe I can learn new technologies and programming concepts very quic
 
 Working as a client-facing property lawyer, I have proven myself to be an excellent and efficient communicator.  
 
-- My working day would involve regularly being on the phone, emailing and meeting face-to-face with clients, estate agents and other parties. Having clear and effective commumication, I was able to ensure making sure everyone that relevant parties were kept informed on the progress of a transaction and what the next steps would be. 
+- My working day would involve regularly being on the phone, emailing and meeting face-to-face with clients, estate agents and other parties. Having clear and effective communication, I was able to ensure making sure everyone that relevant parties were kept informed on the progress of a transaction and what the next steps would be. 
 - Clients would be given feedback forms at the end of a transaction and my communication skills were often highly praised.
 - Colleagues who had referred to me long-standing clients, sometimes with very high expectations, would feedback to me how highly those clients thought of me.
 
@@ -70,7 +70,7 @@ I have a calmness under pressure, enabling me to be clear in my decision making 
 
 #### Makers Academy (June-Sept 2019)
 
-Attending Makers Academy has been an incredible experience. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which have made me a more effective pair programmer and team-player. At Makers Academy you are encouraged to self-learn and set your own goals. Since the start of the course, I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am very well equipped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
+Attending Makers Academy has been an incredible experience. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which have made me a more effective pair programmer and team-player. At Makers Academy you are encouraged to self-learn and set your own goals. Since the start of the course, I have become highly effective at setting learning goals, researching and studying suitable materials and putting what I have learned into practice. I have also kept track of my progress with a [learning portfolio](https://github.com/willhowes/makers_portfolio_and_notes). With these skills in place, I am very well equipped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
 
 #### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
 
