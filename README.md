@@ -12,7 +12,7 @@ I am looking for my first role as a junior developer and am excited to join a te
 Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
 ##### I can make software
-At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, some of the projects are only part complete.   
+At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, some of the projects are only partially complete.   
 
 * An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
 * An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
