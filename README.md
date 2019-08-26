@@ -4,9 +4,36 @@
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
 
-I am a full-stack developer with a passion for writing clean and readable code. Having recently embarked on the 12-week intensive boot camp with [Makers Academy](https://makers.tech/), I am quickly progressing from an enthusiastic amateur coder to a confident and highly competent software developer. I am a friendly and hard-working team player looking for my first role as a junior developer. I hope to join a team that is enthusiastic about coding and with whom I can continue to develop my skills. 
+Having rekindled my love of coding in the last few years, I recently took a leap of faith by leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers I have progressed quickly from an enthusiastic amateur coder to a confident and highly competent software developer. I write clean and readable code and make valuable contributions to the teams I work with. I have demonstrated at Makers and in my previous career to be friendly and hard-working team-player with excellent communication skills. I am looking for my first role as a junior developer and I am exited to join a team enthusiasic about coding and with whom I can continue to develop my skills.
 
-## Skills
+## Skills as a Full Stack Developer
+These are some of the skills I have gained as a devevloper from self-learning and attending Makers Academy. 
+
+##### I can make software
+At Makers I have proved I can make software, from scratch if necessary, using test driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams.
+
+* An example of a group project I was a part of: ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
+* An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
+
+When building projects on my own or in teams, I take a methodical approach to solving problems. I do rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I am able to calmly locate the issue by understanding the error messages and using tools such as pausing the code where the issue lies and printing the output of the relevant code statements. 
+
+I understand the importance of havind clean and readable code. I make sure I refactor frequently so that another developer will be able to look at my code and understand it quickly.
+
+##### I'm equipped for long term growth
+
+I love learning which is one of many reasons why I was so attracted to a career as a developer. 
+
+In week 5 of the course at Makers, having had only a very basic grap of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how test drive in Python in a matter of an hours. This shows I can learn quickly and effectively by myself. 
+
+##### I help my teams succeed
+
+Not long ago I had only a very basic understand of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints have on improving a team's communicate and focus on goals. 
+
+When I have worked in teams, and particularly when pair programming, I will always communicate what the code I am writing is for. This means that other team members can understand the code I have written and easily implement changes where necessary.  
+
+Whilst I beleive I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Github, Heroku, Travis CI. 
+
+## Transferable Skills from my previous career
 
 #### Communication
 
@@ -41,40 +68,7 @@ I have a calmness under pressure, enabling me to be clear in my decision making 
 
 #### Makers Academy (June-Sept 2019)
 
-Attending Makers Academy has been an incredible experienced. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course my coding skills been transformed. For example, at the start of the course I barely new what Test Driven Developmnent ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which has made me a more effective pair programmer and team player. At Makers Academy you encoruraged to self-learn and set your own goals and since the start of the course I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place I am very well equiped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
-
-These are some of the skills I have gained from attending Makers Academy. 
-
-##### I can make software
-* I can TDD anything
-* I can program fluently
-* I can debug anything
-* I can model anything
-* I can refactor anything
-* I have a methodical approach to solving problems
-
-##### I'm equipped for long term growth
-
-* I manage my own wellbeing
-* I can learn anything by myself.
-  - In week 5 of the course, having had only a very basic grap of Javascript, I was able to become comptent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I picked up how test drive in Python in a matter of an hours. This shows I can learn quickly and effectively by myself. 
-
-##### I help my teams succeed
-
-* I use an agile product development process
-* I write code that is easy to change
-* I can justify the way I work
-* I grow collaboratively
-
-
-* Curious and passionate about code. [PROVIDE EVIDENCE]
-* Fast, independent learner [PROVIDE EVIDENCE]
-* Great collaborator [PROVIDE EVIDENCE]
-
-* OOP, TDD, MVC, DDD
-* Agile/XP
-* Ruby, Rails, JavaScript
-* RSpec, Jasmine
+Attending Makers Academy has been an incredible experience. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course my coding skills been transformed. For example, at the start of the course I barely new what Test Driven Developmnent ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which has made me a more effective pair programmer and team player. At Makers Academy you encoruraged to self-learn and set your own goals and since the start of the course I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place I am very well equiped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
 
 #### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
 
@@ -92,15 +86,11 @@ These are some of the skills I have gained from attending Makers Academy.
 
 ## Experience
 
-**Adams & Remers LLP** (August 2017 to June 2019)    
+**Adams & Remers LLP** (August 2017 to June 2019) and **Streeter Marshall LLP** (November 2011 to August 2017)  
 *Licensed Conveyancer*
 - Managing my own case-load with a variety of transactions and in particular residential property sales and purchases. 
 - Designing standard letters, forms, checklists, guidance leaflets for clients. 
 - Keeping colleagues updated with legislation and transactional changes to conveyancing. 
-
-**Streeter Marshall LLP** (November 2011 to August 2017)   
-*Licensed Conveyancer*  
-- Managing my own case-load in residential conveyancing (as above with Adams & Remers)
 - Working with colleagues to improve case management system with pre-populated letters and forms.
 - Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
 
