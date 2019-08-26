@@ -25,7 +25,7 @@ I understand the importance of having clean and readable code. When taking part 
 
 I love learning which is one of many reasons why I was so attracted to a career as a developer. At Makers I have developed my ability to self-learn quickly and effectively.
 
-In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
+In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
 ##### I help my teams succeed
 
