@@ -4,24 +4,26 @@
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
 
-Having rekindled my love of coding in the last few years, I recently took a leap of faith by leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed quickly from an enthusiastic amateur coder to a confident and highly competent software developer. I write clean and readable code and make valuable contributions to the teams I work with. I have demonstrated at Makers and in my previous career to be friendly and hard-working team-player with excellent communication skills. I am looking for my first role as a junior developer and I am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
+Having rekindled my love of coding in the last few years, this Spring I took a leap of faith leaving my previous career as a Licenced Conveyancer and embarking on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. I can write clean and readable code and make valuable contributions to the teams I work in. I have demonstrated at Makers and in my previous career that I am a friendly and hard-working team player with excellent communication skills. 
+
+I am looking for my first role as a junior developer and am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
 
 ## Skills as a Full Stack Developer
-These are some of the skills I have gained as a developer from self-learning and attending Makers Academy. 
+Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
 ##### I can make software
-At Makers I have proved I can make software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams.
+At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, that some of the projects part complete.  
 
 * An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
 * An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
 
-When building projects on my own or in teams, I take a methodical approach to solving problems. I do rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I can calmly locate the issue by understanding the error messages and using tools such as pausing the code where the issue lies and printing the output of the relevant code statements. 
+When building projects on my own or in teams, I take a methodical approach to solving problems. I do not rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I can locate the issue by taking the time to understand the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
 
-I understand the importance of having clean and readable code. I make sure I refactor frequently so that another developer will be able to look at my code and understand it quickly.
+I understand the importance of having clean and readable code. When taking part in group work at Makers, we woud frequently swap roles and pair partners. By refactoring frequently other developers in the team have been able to read and understand my code quickly.
 
-##### I'm equipped for long term growth
+##### I am equipped for long term growth
 
-I love learning which is one of many reasons why I was so attracted to a career as a developer. 
+I love learning which is one of many reasons why I was so attracted to a career as a developer. At Makers I have developed my ability to self-learn quickly and effectively.
 
 In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
@@ -33,28 +35,28 @@ When I have worked in teams, and particularly when pair programming, I will alwa
 
 Whilst I believe I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Github, Heroku, Travis CI. 
 
-## Transferable Skills from my previous career
+## Transferable Skills from my previous career as a Licensed Conveyancer
 
 #### Communication
 
 Working as a client-facing property lawyer, I have proven myself to be an excellent and efficient communicator.  
 
-- My working day would involve regularly being on the phone, emailing and meeting face-to-face with clients, estate agents and other parties making sure everyone is kept informed on the progress of a transaction and what the next steps are. 
+- My working day would involve regularly being on the phone, emailing and meeting face-to-face with clients, estate agents and other parties. Having clear and effective commumication, I was able to ensure making sure everyone that relevant parties were kept informed on the progress of a transaction and what the next steps would be. 
 - Clients would be given feedback forms at the end of a transaction and my communication skills were often highly praised.
 - Colleagues who had referred to me long-standing clients, sometimes with very high expectations, would feedback to me how highly those clients thought of me.
 
 #### Problem Solving
-As a property lawyer, I would off come up against a range of technical and logistical challenges. I am adept at using logical reasoning to come up with possible solutions to such challenges.
+As a property lawyer, I would often come up against a range of technical and logistical challenges. I am adept at using logical reasoning to find solutions to a range of challenges.
 
-- When dealing with a property transaction, potential roadblocks are sometimes met which could jeopardise meeting of deadlines or even the transaction altogether. By tackling the issue head-on and assessing possible solutions, I would advise clients and other stakeholders succinctly so that as little time is wasted as possible.
-- Clients have thanked me for being honest in my assessment of difficult situations and finding solutions.
+- When dealing with a property transaction, roadblocks are often met which could jeopardise meeting a client's expectations. By tackling such issues head-on and assessing possible solutions, I would advise clients and other stakeholders succinctly so that as little time is wasted as possible.
+- Many of my clients have thanked me for being honest in my assessment of difficult situations and finding solutions to these.
 
 #### Team Work
 Throughout my life, both in work and outside of work I have been a team player. I am keen to help others and do what is best for the collective rather than just myself. 
 
 - As a Licensed Conveyancer, I have been effective in collaborating with colleagues to manage the team's workloads, improve practices, share knowledge and resolve difficult technical issues.
-- As an example, in previous roles, I have led my team's CPD direction to ensure my colleagues could easily and effectively keep up-to-date with their professional development. I have also often led the way to bring in standard procedures and policies to make the team more efficient. 
-- Colleagues would often show their gratitude for my efforts to put in the extra work to help the running of the team. 
+- In previous roles, I have led my team's CPD direction to ensure my colleagues could easily and effectively keep up-to-date with their professional development. I have also often led the way to bring in standard procedures and policies to make the team more efficient. 
+- Colleagues would often express their gratitude for my efforts in helping the running of the team. 
 
 #### Handling pressure
 I have a calmness under pressure, enabling me to be clear in my decision making and reassure others in challenging time-sensitive situations. 
