@@ -12,7 +12,7 @@ I am looking for my first role as a junior developer and am excited to join a te
 Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
 ##### I can make software
-At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, that some of the projects part complete.  
+At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, some of the projects are only part complete.   
 
 * An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
 * An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
@@ -33,7 +33,7 @@ Not long ago I had only a very basic understanding of agile working. Now, this h
 
 When I have worked in teams, and particularly when pair programming, I will always communicate what the code I am writing is for. This means that other team members can understand the code I have written and easily implement changes where necessary.  
 
-Whilst I believe I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Github, Heroku, Travis CI. 
+Whilst I believe I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
 
