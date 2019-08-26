@@ -4,34 +4,34 @@
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
 
-Having rekindled my love of coding in the last few years, I recently took a leap of faith by leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers I have progressed quickly from an enthusiastic amateur coder to a confident and highly competent software developer. I write clean and readable code and make valuable contributions to the teams I work with. I have demonstrated at Makers and in my previous career to be friendly and hard-working team-player with excellent communication skills. I am looking for my first role as a junior developer and I am exited to join a team enthusiasic about coding and with whom I can continue to develop my skills.
+Having rekindled my love of coding in the last few years, I recently took a leap of faith by leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed quickly from an enthusiastic amateur coder to a confident and highly competent software developer. I write clean and readable code and make valuable contributions to the teams I work with. I have demonstrated at Makers and in my previous career to be friendly and hard-working team-player with excellent communication skills. I am looking for my first role as a junior developer and I am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
 
 ## Skills as a Full Stack Developer
-These are some of the skills I have gained as a devevloper from self-learning and attending Makers Academy. 
+These are some of the skills I have gained as a developer from self-learning and attending Makers Academy. 
 
 ##### I can make software
-At Makers I have proved I can make software, from scratch if necessary, using test driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams.
+At Makers I have proved I can make software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams.
 
-* An example of a group project I was a part of: ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
+* An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
 * An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
 
-When building projects on my own or in teams, I take a methodical approach to solving problems. I do rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I am able to calmly locate the issue by understanding the error messages and using tools such as pausing the code where the issue lies and printing the output of the relevant code statements. 
+When building projects on my own or in teams, I take a methodical approach to solving problems. I do rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I can calmly locate the issue by understanding the error messages and using tools such as pausing the code where the issue lies and printing the output of the relevant code statements. 
 
-I understand the importance of havind clean and readable code. I make sure I refactor frequently so that another developer will be able to look at my code and understand it quickly.
+I understand the importance of having clean and readable code. I make sure I refactor frequently so that another developer will be able to look at my code and understand it quickly.
 
 ##### I'm equipped for long term growth
 
 I love learning which is one of many reasons why I was so attracted to a career as a developer. 
 
-In week 5 of the course at Makers, having had only a very basic grap of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how test drive in Python in a matter of an hours. This shows I can learn quickly and effectively by myself. 
+In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
 ##### I help my teams succeed
 
-Not long ago I had only a very basic understand of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints have on improving a team's communicate and focus on goals. 
+Not long ago I had only a very basic understanding of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints have on improving a team's communicate and focus on goals. 
 
 When I have worked in teams, and particularly when pair programming, I will always communicate what the code I am writing is for. This means that other team members can understand the code I have written and easily implement changes where necessary.  
 
-Whilst I beleive I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Github, Heroku, Travis CI. 
+Whilst I believe I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Github, Heroku, Travis CI. 
 
 ## Transferable Skills from my previous career
 
@@ -44,7 +44,7 @@ Working as a client-facing property lawyer, I have proven myself to be an excell
 - Colleagues who had referred to me long-standing clients, sometimes with very high expectations, would feedback to me how highly those clients thought of me.
 
 #### Problem Solving
-As a property lawyer I would off come up against a range of technical and logistical challenges. I am adept at using logical reasoning to come up with possible solutions to such challenges.
+As a property lawyer, I would off come up against a range of technical and logistical challenges. I am adept at using logical reasoning to come up with possible solutions to such challenges.
 
 - When dealing with a property transaction, potential roadblocks are sometimes met which could jeopardise meeting of deadlines or even the transaction altogether. By tackling the issue head-on and assessing possible solutions, I would advise clients and other stakeholders succinctly so that as little time is wasted as possible.
 - Clients have thanked me for being honest in my assessment of difficult situations and finding solutions.
@@ -68,12 +68,12 @@ I have a calmness under pressure, enabling me to be clear in my decision making 
 
 #### Makers Academy (June-Sept 2019)
 
-Attending Makers Academy has been an incredible experience. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course my coding skills been transformed. For example, at the start of the course I barely new what Test Driven Developmnent ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which has made me a more effective pair programmer and team player. At Makers Academy you encoruraged to self-learn and set your own goals and since the start of the course I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place I am very well equiped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
+Attending Makers Academy has been an incredible experience. As well as being great fun, it has proved to me what you can achieve in a short space of time with focused and goal-orientated learning. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was, now I consider myself to competent at test driving to build any program. The benefit of attending Makers Academy go beyond coding. I have improved my communication skills which have made me a more effective pair programmer and team-player. At Makers Academy you are encouraged to self-learn and set your own goals. Since the start of the course, I have become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am very well equipped to learn new languages, frameworks and technologies in the fast-moving tech industry.     
 
 #### Brighton Metropolitan College - adult education evening classes (2017 to 2018)
 
 - Programming for Beginners Using Python
-- Introduction to html, CSS and JavaScript
+- Introduction to HTML, CSS and JavaScript
 
 #### Council of Licensed Conveyancers Distance Learning Course (2010 to 2013)
 
@@ -88,18 +88,17 @@ Attending Makers Academy has been an incredible experience. As well as being gre
 
 **Adams & Remers LLP** (August 2017 to June 2019) and **Streeter Marshall LLP** (November 2011 to August 2017)  
 *Licensed Conveyancer*
-- Managing my own case-load with a variety of transactions and in particular residential property sales and purchases. 
+- Managing a case-load with a variety of transactions and in particular residential property sales and purchases. 
 - Designing standard letters, forms, checklists, guidance leaflets for clients. 
 - Keeping colleagues updated with legislation and transactional changes to conveyancing. 
 - Working with colleagues to improve case management system with pre-populated letters and forms.
 - Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
 
 #### Personal Interests and Responsibilities
-- I write and play my own music, and enjoy going to gigs in Brighton and London.
+- I write and play music on the guitar and piano/keyboard/synth. I also enjoy going to gigs in Brighton and London.
 - I take part in and volunteer for my local ParkRun, and regularly compete in 10k, 10 mile and half marathon races.
-- I am a long suffering supporter of the England Mens Cricket Team and try to get to a watch them a few times each summer.  
+- I am a long-suffering supporter of the England Men's Cricket Team and try to get to a watch them a few times each summer.  
 - I am a Director and the Company Secretary of the company that owns the freehold of the block of flats I live in.
 
 #### References
 Professional and personal references are available on request.
-
