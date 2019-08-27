@@ -17,9 +17,9 @@ At Makers I have proved I can build software, from scratch if necessary, using t
 * An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
 * An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
 
-When building projects on my own or in teams, I take a methodical approach to solving problems. I do not rush into writing code before carrying out any necessary planning and writing relevant tests. If bugs are found, I can locate the issue by taking the time to understand the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
+When building projects on my own or in teams, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
 
-I understand the importance of having clean and readable code. When taking part in group work at Makers, we woud frequently swap roles and pair partners. By refactoring frequently other developers in the team have been able to read and understand my code quickly.
+I understand the importance of having clean and readable code. When taking part in group work at Makers, we frequently change pair partners and roles so each team member has exposure to every part of the code. Because I refactor my code frequently, other developers in the team have been able to read and understand my code quickly.
 
 ##### I am equipped for long term growth
 
@@ -29,7 +29,7 @@ In week 5 of the course at Makers, having had only a very basic grasp of Javascr
 
 ##### I help my teams succeed
 
-Not long ago I had only a very basic understanding of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints have on improving a team's communicate and focus on goals. 
+Not long ago I had only a very basic understanding of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints can have on improving a team's communication and focus on goals. 
 
 When I have worked in teams, and particularly when pair programming, I will always communicate what the code I am writing is for. This means that other team members can understand the code I have written and easily implement changes where necessary.  
 
@@ -38,18 +38,15 @@ Whilst I believe I can learn new technologies and programming concepts very quic
 ## Transferable Skills from my previous career as a Licensed Conveyancer
 
 #### Communication
-
 Working as a client-facing property lawyer, I have proven myself to be an excellent and efficient communicator.  
 
-- My working day would involve regularly being on the phone, emailing and meeting face-to-face with clients, estate agents and other parties. Having clear and effective communication, I was able to ensure making sure everyone that relevant parties were kept informed on the progress of a transaction and what the next steps would be. 
-- Clients would be given feedback forms at the end of a transaction and my communication skills were often highly praised.
-- Colleagues who had referred to me long-standing clients, sometimes with very high expectations, would feedback to me how highly those clients thought of me.
+I regularly communicated with clients, estate agents and other parties by phone, email and face-to-face meetings. Using clear and effective communication, I ensured that relevant parties were kept informed on the progress of a transaction and the next steps. When giving feedback at the end of a transaction, clients often praised my communication skills. 
+
 
 #### Problem Solving
-As a property lawyer, I would often come up against a range of technical and logistical challenges. I am adept at using logical reasoning to find solutions to a range of challenges.
+As a property lawyer, I would often come up against a range of technical and logistical problems. I often relied on my logical reasoning skills to find solutions to such challenges.
 
-- When dealing with a property transaction, roadblocks are often met which could jeopardise meeting a client's expectations. By tackling such issues head-on and assessing possible solutions, I would advise clients and other stakeholders succinctly so that as little time is wasted as possible.
-- Many of my clients have thanked me for being honest in my assessment of difficult situations and finding solutions to these.
+Property transactions often present roadblocks, which can jeopardise meeting a client's expectations. I tackled such issues head-on, assessed possible solutions, before advising clients and other stakeholders succinctly. Many of my clients have thanked me for my honest assessment of difficult situations and finding solutions.
 
 #### Team Work
 Throughout my life, both in work and outside of work I have been a team player. I am keen to help others and do what is best for the collective rather than just myself. 
@@ -59,12 +56,9 @@ Throughout my life, both in work and outside of work I have been a team player. 
 - Colleagues would often express their gratitude for my efforts in helping the running of the team. 
 
 #### Handling pressure
-I have a calmness under pressure, enabling me to be clear in my decision making and reassure others in challenging time-sensitive situations. 
+I remain calm under pressure, enabling me to be clear in my decision-making and reassure others in challenging, time-sensitive situations. 
 
-- As anyone who has bought or sold a property knows, the process can be extremely stressful. Every day as a property lawyer I would be challenged with multiple urgent tasks. 
-- By prioritising my workload, keeping calm and working through tasks methodically I can work efficiently and meet the expectations of the client and other stakeholders. 
-- Clients have regularly commented that my calmness and reassurance helped them through times where a transaction became particularly stressful for them.
-
+Every day as a property lawyer I would be challenged with multiple urgent tasks. By prioritising my workload, keeping calm and working through tasks methodically I can work efficiently and meet the expectations of the client and other stakeholders. Clients have regularly commented that my calmness and reassurance helped them through times where a transaction became particularly stressful for them.
 
 ## Education
 
