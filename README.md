@@ -12,18 +12,21 @@ I am looking for my first role as a junior developer and am excited to join a te
 Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
 ##### I can make software
-At Makers I have proved I can build software, from scratch if necessary, using test-driven development. This can be seen from the projects in my Github Repository which I have built on my own and in teams. Please note that, due to the fast-paced nature of learning to code Makers Academy, some of the projects are only partially complete.   
+Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The examples below from the repositories on my Github profile, show projects I have built on my own and in teams. Please note that, due to the fast-paced nature of learning at Makers Academy, some of the projects are partially complete.  
 
-* An example of a group project I was a part of ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
-* An example of a solo project: ['Bowling Scorecard](https://github.com/willhowes/bowling-challenge)
+Group project: 'Angels - a Facebook copy' https://github.com/Kaymo1990/acebook---CharliesAngels
+Solo project: 'Bowling Scorecard’ https://github.com/willhowes/bowling-challenge 
 
 When building projects on my own or in teams, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
 
 I understand the importance of having clean and readable code. When taking part in group work at Makers, we frequently change pair partners and roles so each team member has exposure to every part of the code. Because I refactor my code frequently, other developers in the team have been able to read and understand my code quickly.
 
+
 ##### I am equipped for long term growth
 
-I love learning which is one of many reasons why I was so attracted to a career as a developer. At Makers I have developed my ability to self-learn quickly and effectively.
+One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy you are encouraged to take control of your learning and set your own goals. I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am well equipped to learn new languages, frameworks and technologies in the fast-moving digital sector. 
+  
+By applying this focused and goal-orientated learning, I have achieved a great deal in a short space of time at Makers. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was; I now consider myself to be competent at test driving to build any program. 
 
 In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
@@ -31,9 +34,9 @@ In week 5 of the course at Makers, having had only a very basic grasp of Javascr
 
 Not long ago I had only a very basic understanding of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints can have on improving a team's communication and focus on goals. 
 
-When I have worked in teams, and particularly when pair programming, I will always communicate what the code I am writing is for. This means that other team members can understand the code I have written and easily implement changes where necessary.  
+When I work in teams, and particularly when pair programming, I always communicate the reasoning behind the code I am writing. This means that other team members can understand the code I have written and easily implement changes where necessary.  
 
-Whilst I believe I can learn new technologies and programming concepts very quickly, here are come of the languages, frameworks and concepts I have used frequently as a developer: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
+I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
 
