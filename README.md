@@ -97,5 +97,5 @@ Attending Makers Academy has been an incredible experience. As well as being gre
 - I am a long-suffering supporter of the England Men's Cricket Team and try to get to a watch them a few times each summer.  
 - I am a Director and the Company Secretary of the company that owns the freehold of the block of flats I live in.
 
-#### References
+## References
 Professional and personal references are available on request.
