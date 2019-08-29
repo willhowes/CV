@@ -4,7 +4,7 @@
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
 
-Having rekindled my love of coding in the last few years, this Spring I took a leap of faith leaving my previous career as a Licenced Conveyancer and embarked on a 12-week bootcamp at [Makers Academy](https://makers.tech/). At Makers, I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. I can write clean and readable code and make valuable contributions to the teams I work in. I have demonstrated at Makers and in my previous career that I am a friendly and hard-working team player with excellent communication skills. 
+Over the past few years, I have revisited my childhood hobby of computer programming through adult education courses, online tutorials and a number of books. Having rekindled my love of coding, in June I took a leap of faith, leaving my previous career as a Licenced Conveyancer and embarking on a 12-week coding bootcamp at Makers Academy. During this time I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. The journey has been fun and rewarding. I am looking forward to continuing to learn in my first role as a developer and beyond.
 
 I am looking for my first role as a junior developer and am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
 
