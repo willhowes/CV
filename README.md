@@ -23,7 +23,6 @@ I understand the importance of having clean and readable code. When taking part 
 
 
 #### I am equipped for long term growth
-
 One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy you are encouraged to take control of your learning and set your own goals. I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am well equipped to learn new languages, frameworks and technologies in the fast-moving digital sector. 
   
 By applying this focused and goal-orientated learning, I have achieved a great deal in a short space of time at Makers. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was; I now consider myself to be competent at test driving to build any program. 
@@ -31,14 +30,12 @@ By applying this focused and goal-orientated learning, I have achieved a great d
 In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
 #### I help my teams succeed
-
 At Makers we have learned and practiced agile working tools such as stand-ups, retros and sprints. By encouraging the use of these practices, together with using my coding and communication skills, I make valuable contributions to the teams I work in. 
 
 When planning, pair programming or mob-programming in teams, I will communicate clearly. This means that other team members can easily understand the reasoning behind my contributions to planning and the code itself.  
 
 
 #### Technologies I have regularly used
-
 I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
@@ -48,18 +45,15 @@ Working as a client-facing property lawyer, I have proven myself to be an excell
 
 I regularly communicated with clients, estate agents and other parties by phone, email and face-to-face meetings. Using clear and effective communication, I ensured that relevant parties were kept informed on the progress of a transaction and the next steps. When giving feedback at the end of a transaction, clients often praised my communication skills. 
 
-
 #### Problem Solving
 As a property lawyer, I would often come up against a range of technical and logistical problems. I often relied on my logical reasoning skills to find solutions to such challenges.
 
-Property transactions often present roadblocks, which can jeopardise meeting a client's expectations. I tackled such issues head-on, assessed possible solutions, before advising clients and other stakeholders succinctly. Many of my clients have thanked me for my honest assessment of difficult situations and finding solutions.
+Property transactions frequently present roadblocks, which can jeopardise meeting a client's expectations. I tackled such issues head-on, assessed possible solutions, before advising clients and other stakeholders succinctly. Many of my clients have thanked me for my honest assessment of difficult situations and finding solutions.
 
 #### Team Work
 Throughout my life, both in work and outside of work I have been a team player. I am keen to help others and do what is best for the collective rather than just myself. 
 
-- As a Licensed Conveyancer, I have been effective in collaborating with colleagues to manage the team's workloads, improve practices, share knowledge and resolve difficult technical issues.
-- In previous roles, I have led my team's CPD direction to ensure my colleagues could easily and effectively keep up-to-date with their professional development. I have also often led the way to bring in standard procedures and policies to make the team more efficient. 
-- Colleagues would often express their gratitude for my efforts in helping the running of the team. 
+As a Licensed Conveyancer, I collaborated with colleagues to manage the team's workloads, improve practices, share knowledge and resolve difficult technical issues. In previous roles, I have been responsible for leading the professional development of my colleagues, ensuring they stayed up-to-date with their knowledge and skills. I also implemented standard procedures and policies to make the team more efficient. 
 
 #### Handling pressure
 I remain calm under pressure, enabling me to be clear in my decision-making and reassure others in challenging, time-sensitive situations. 
