@@ -1,5 +1,6 @@
 # Will Howes
 **Full Stack Developer**
+[Profile](https://github.com/willhowes/CV#profile) | Projects | Skills | Education | Experience | Hobbies | LinkedIn | Blog |
 
 ## Profile
 [My blog on Medium](https://medium.com/@williameldenhowes)
@@ -12,10 +13,7 @@ I am looking for my first role as a junior developer and am excited to join a te
 Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
 #### I can make software
-Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The examples below from the repositories on my Github profile, show projects I have built on my own and in teams. Please note that, due to the fast-paced nature of learning at Makers Academy, some of the projects are partially complete.  
-
-Group project: 'Angels - a Facebook copy' https://github.com/Kaymo1990/acebook---CharliesAngels
-Solo project: 'Bowling Scorecard’ https://github.com/willhowes/bowling-challenge 
+Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The examples [projects]() below from the repositories on my Github profile, show projects I have built on my own and in teams. Please note that, due to the fast-paced nature of learning at Makers Academy, some of the projects are partially complete.  
 
 When building projects on my own or in teams, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
 
@@ -37,6 +35,10 @@ When planning, pair programming or mob-programming in teams, I will communicate 
 
 #### Technologies I have regularly used
 I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
+
+## Projects
+* Group project: 'Angels - a Facebook copy' https://github.com/Kaymo1990/acebook---CharliesAngels
+* Solo project: 'Bowling Scorecard’ https://github.com/willhowes/bowling-challenge 
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
 
