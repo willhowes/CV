@@ -1,10 +1,9 @@
 # Will Howes
 **Full Stack Developer**
-[Profile](https://github.com/willhowes/CV#profile) | Projects | Skills | Education | Experience | Hobbies | LinkedIn | Blog |
+
+[Profile](https://github.com/willhowes/CV#profile) | [Projects](https://github.com/willhowes/CV#projects) | [Developer Skills](https://github.com/willhowes/CV#skills-as-a-full-stack-developer) | [Transferable Skills](https://github.com/willhowes/CV#transferable-skills-from-my-previous-career-as-a-licensed-conveyancer) | [Education](https://github.com/willhowes/CV#education) | [Experience](https://github.com/willhowes/CV#experience) | [Personal Interests](https://github.com/willhowes/CV#personal-interests-and-responsibilities) | [LinkedIn](https://www.linkedin.com/in/will-howes-12a9b529/) | [Blog](https://medium.com/@williameldenhowes) |
 
 ## Profile
-[My blog on Medium](https://medium.com/@williameldenhowes)
-
 Over the past few years, I have revisited my childhood hobby of computer programming through adult education courses, online tutorials and a number of books. Having rekindled my love of coding, in June I took a leap of faith, leaving my previous career as a Licenced Conveyancer and embarking on a 12-week coding bootcamp at Makers Academy. During this time I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. The journey has been fun and rewarding. I am looking forward to continuing to learn in my first role as a developer and beyond.
 
 I am looking for my first role as a junior developer and am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
