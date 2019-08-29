@@ -11,7 +11,7 @@ I am looking for my first role as a junior developer and am excited to join a te
 ## Skills as a Full Stack Developer
 Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
 
-##### I can make software
+#### I can make software
 Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The examples below from the repositories on my Github profile, show projects I have built on my own and in teams. Please note that, due to the fast-paced nature of learning at Makers Academy, some of the projects are partially complete.  
 
 Group project: 'Angels - a Facebook copy' https://github.com/Kaymo1990/acebook---CharliesAngels
@@ -22,7 +22,7 @@ When building projects on my own or in teams, I take a methodical approach to so
 I understand the importance of having clean and readable code. When taking part in group work at Makers, we frequently change pair partners and roles so each team member has exposure to every part of the code. Because I refactor my code frequently, other developers in the team have been able to read and understand my code quickly.
 
 
-##### I am equipped for long term growth
+#### I am equipped for long term growth
 
 One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy you are encouraged to take control of your learning and set your own goals. I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am well equipped to learn new languages, frameworks and technologies in the fast-moving digital sector. 
   
@@ -30,11 +30,14 @@ By applying this focused and goal-orientated learning, I have achieved a great d
 
 In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
-##### I help my teams succeed
+#### I help my teams succeed
 
-Not long ago I had only a very basic understanding of agile working. Now, this has become almost second nature to me, as we have used agile working tools in our group work at Makers. I understand the benefits that tools such as stand-ups, retros and sprints can have on improving a team's communication and focus on goals. 
+At Makers we have learned and practiced agile working tools such as stand-ups, retros and sprints. By encouraging the use of these practices, together with using my coding and communication skills, I make valuable contributions to the teams I work in. 
 
-When I work in teams, and particularly when pair programming, I always communicate the reasoning behind the code I am writing. This means that other team members can understand the code I have written and easily implement changes where necessary.  
+When planning, pair programming or mob-programming in teams, I will communicate clearly. This means that other team members can easily understand the reasoning behind my contributions to planning and the code itself.  
+
+
+#### Technologies I have regularly used
 
 I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
