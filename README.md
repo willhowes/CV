@@ -91,7 +91,7 @@ Attending Makers Academy has been an incredible experience. As well as being gre
 - Working with colleagues to improve case management system with pre-populated letters and forms.
 - Running the conveyancers training programme for the Law Society's Conveyancing Quality Scheme. 
 
-#### Personal Interests and Responsibilities
+## Personal Interests and Responsibilities
 - I write and play music on the guitar and piano/keyboard/synth. I also enjoy going to gigs in Brighton and London.
 - I take part in and volunteer for my local ParkRun, and regularly compete in 10k, 10 mile and half marathon races.
 - I am a long-suffering supporter of the England Men's Cricket Team and try to get to a watch them a few times each summer.  
