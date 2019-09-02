@@ -36,9 +36,13 @@ When planning, pair programming or mob-programming in teams, I will communicate 
 I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, Rspec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
 ## Projects
-* Group project: ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)
-* Solo project: ['Bowling Scorecard’](https://github.com/willhowes/bowling-challenge) 
-* Solo project: [Bank Tech Test](https://github.com/willhowes/bank_tech_test)
+
+
+| Project        | Description          | Technologies  |
+| ------------- |:-------------:| -----:|
+| ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)      | A group project building a copy of Facebook | Ruby on Rails |
+| ['Bowling Scorecard’](https://github.com/willhowes/bowling-challenge)      | A solo project building a web application for       | Javascript |
+| [Bank Tech Test](https://github.com/willhowes/bank_tech_test) | A solo tech test |  Ruby |
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
 
