@@ -4,20 +4,19 @@
 [Profile](https://github.com/willhowes/CV#profile) | [Projects](https://github.com/willhowes/CV#projects) | [Developer Skills](https://github.com/willhowes/CV#skills-as-a-full-stack-developer) | [Transferable Skills](https://github.com/willhowes/CV#transferable-skills-from-my-previous-career-as-a-licensed-conveyancer) | [Education](https://github.com/willhowes/CV#education) | [Experience](https://github.com/willhowes/CV#experience) | [Personal Interests](https://github.com/willhowes/CV#personal-interests-and-responsibilities) | [LinkedIn](https://www.linkedin.com/in/will-howes-12a9b529/) | [Blog](https://medium.com/@williameldenhowes) |
 
 ## Profile
-Over the past few years, I have revisited my childhood hobby of computer programming through adult education courses, online tutorials and a number of books. Having rekindled my love of coding, in June I took a leap of faith, leaving my previous career as a Licenced Conveyancer and embarking on a 12-week coding bootcamp at Makers Academy. During this time I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. The journey has been fun and rewarding. I am looking forward to continuing to learn in my first role as a developer and beyond.
-
-I am looking for my first role as a junior developer and am excited to join a team enthusiastic about coding and with whom I can continue to develop my skills.
+Over the past few years, I have revisited my childhood hobby of computer programming through adult education courses, online tutorials and a number of books. This June, having rekindled my love of coding, and after a lot of research and careful consideration, I left my previous career as a Licenced Conveyancer and embarked on a 12-week coding bootcamp at Makers Academy. During this time I have progressed from an enthusiastic amateur coder to a confident and highly competent software developer. The journey has been fun and rewarding. I am looking forward to continuing to learn in my first role as a developer and beyond.
 
 ## Skills as a Full Stack Developer
-Below are some of the skills I have gained as a developer from attending Makers Academy, online and adult education courses, and self-led learning. 
+I have outlined below some of the skills I have gained from attending Makers Academy; online and adult education courses; and self-led learning. 
 
 #### I can make software
-Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The examples [projects]() below from the repositories on my Github profile, show projects I have built on my own and in teams. Please note that, due to the fast-paced nature of learning at Makers Academy, some of the projects are partially complete.  
+Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The example [projects]() below from the repositories on my Github profile, show projects I have built on my own and in teams. 
 
-When building projects on my own or in teams, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. 
+When building projects, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. Whilst building a project I will make regular commits to Git and push these to a GitHub repository so that there are saved versions of the project I can revert to if necessary. 
 
 I understand the importance of having clean and readable code. When taking part in group work at Makers, we frequently change pair partners and roles so each team member has exposure to every part of the code. Because I refactor my code frequently, other developers in the team have been able to read and understand my code quickly.
 
+As well as writing readable code, if I am required to provide an explanation, I can describe my rationale clearly, so that other team members can easily understand my logic.
 
 #### I am equipped for long term growth
 One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy you are encouraged to take control of your learning and set your own goals. I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress. With these skills in place, I am well equipped to learn new languages, frameworks and technologies in the fast-moving digital sector. 
