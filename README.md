@@ -10,7 +10,7 @@ Over the past few years, I have revisited my childhood hobby of computer program
 I have outlined below some of the skills I have gained from attending Makers Academy; online and adult education courses; and self-led learning. 
 
 #### I can make software
-Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The example [projects]() below from the repositories on my Github profile, show projects I have built on my own and in teams. 
+Through attending the course at Makers, I have proven I can build software, from scratch if necessary, using test-driven development. The example [projects](https://github.com/willhowes/CV/blob/master/README.md#projects) below from the repositories on my Github profile, show projects I have built on my own and in teams. 
 
 When building projects, I take a methodical approach to solving problems. Before jumping into the code, I take time to plan and write a suitable first test. If bugs are found, I can locate the issue by reading and understanding the error messages and using tools such as pausing the running of the code and printing the output of relevant statements. Whilst building a project I will make regular commits to Git and push these to a GitHub repository so that there are saved versions of the project I can revert to if necessary. 
 
