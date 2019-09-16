@@ -1,5 +1,5 @@
 <h1 align=center> Will Howes </h1>
-**Software Developer**
+<h2 align=center>Software Developer</h2>
 
 [Profile](https://github.com/willhowes/CV#profile) | [Projects](https://github.com/willhowes/CV#projects) | [Developer Skills](https://github.com/willhowes/CV#skills-as-a-full-stack-developer) | [Transferable Skills](https://github.com/willhowes/CV#transferable-skills-from-my-previous-career-as-a-licensed-conveyancer) | [Education](https://github.com/willhowes/CV#education) | [Experience](https://github.com/willhowes/CV#experience) | [Personal Interests](https://github.com/willhowes/CV#personal-interests-and-responsibilities) | [LinkedIn](https://www.linkedin.com/in/will-howes-12a9b529/) | [Blog](https://medium.com/@williameldenhowes) |
 
