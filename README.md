@@ -1,4 +1,4 @@
-# Will Howes
+<h1 align=center> Will Howes </h1>
 **Software Developer**
 
 [Profile](https://github.com/willhowes/CV#profile) | [Projects](https://github.com/willhowes/CV#projects) | [Developer Skills](https://github.com/willhowes/CV#skills-as-a-full-stack-developer) | [Transferable Skills](https://github.com/willhowes/CV#transferable-skills-from-my-previous-career-as-a-licensed-conveyancer) | [Education](https://github.com/willhowes/CV#education) | [Experience](https://github.com/willhowes/CV#experience) | [Personal Interests](https://github.com/willhowes/CV#personal-interests-and-responsibilities) | [LinkedIn](https://www.linkedin.com/in/will-howes-12a9b529/) | [Blog](https://medium.com/@williameldenhowes) |
@@ -23,7 +23,7 @@ One of many reasons I was attracted to a career as a developer is the ever-chang
   
 By applying this focused and goal-orientated learning, I have achieved a great deal in a short space of time at Makers. During the course, my coding skills have been transformed. For example, at the start of the course I barely knew what Test-Driven Development ('TDD') was; I now consider myself to be competent at test driving to build any program. 
 
-In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent in testing in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
+In week 5 of the course at Makers, having had only a very basic grasp of Javascript previously, I was able to become competent at test driving in Javascript in just a few days with little guidance from the coaches. In the same week, I learned how to test drive in Python in a matter of hours. This shows I can learn quickly and effectively by myself. 
 
 #### I help my teams succeed
 At Makers we have learned and practiced agile working tools such as stand-ups, retros and sprints. By encouraging the use of these practices, together with using my coding and communication skills, I make valuable contributions to the teams I work in. 
@@ -32,7 +32,7 @@ When planning, pair programming or mob-programming in teams, I will communicate 
 
 
 #### Technologies I have regularly used
-I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, RSpec, Capybara, Python, Javascript, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
+I can learn new technologies and programming concepts quickly. Some of the languages, frameworks, tools and concepts I have learned in the relatively short time I have been coding include: Object Orientated Programming, Test Driven Development, the Model-View-Controller pattern, Domain Modelling, Ruby, Ruby-on-Rails, RSpec, Capybara, Python, Javascript, React, Jasmine, jQuery, Ajax requests, HTML, CSS, Sinatra, Postgres, SQL, Github, Heroku, Travis CI. 
 
 ## Projects
 
