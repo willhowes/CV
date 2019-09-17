@@ -83,7 +83,7 @@ Attending Makers Academy has been an incredible experience. As well as being gre
 
 #### University of West of England (2000 to 2003)
 
-- British Administration
+- Business Administration
 - BA (Hons) 2.2
 
 ## Experience
