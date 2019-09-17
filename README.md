@@ -41,7 +41,7 @@ I can learn new technologies and programming concepts quickly. Some of the langu
 | ------------- |:-------------:| -----:|
 | ['meet in the midl'](https://github.com/gennyallcroft/meet-in-the-middle-react-front-end) | Makers Academy Final Group Project - A web app which finds a convenient and fair meeting point for two people| [Back-end](https://github.com/Timdavidcole/meet-in-the-middle-backend-api) - Ruby on Rails, [Front-end](https://github.com/gennyallcroft/meet-in-the-middle-react-front-end) - React |
 | ['Angels - a Facebook copy'](https://github.com/Kaymo1990/acebook---CharliesAngels)      | A group project building a copy of Facebook | Ruby on Rails, Javascript, JQuery |
-| ['Bowling Scorecard’](https://github.com/willhowes/bowling-challenge)      | A solo project building a web application for       | Javascript and JQuery |
+| ['Bowling Scorecard’](https://github.com/willhowes/bowling-challenge)      | A solo project building a web application for a ten-pin bowling scorecard       | Javascript and JQuery |
 | [Bank Tech Test](https://github.com/willhowes/bank_tech_test) | A solo tech test |  Ruby |
 
 ## Transferable Skills from my previous career as a Licensed Conveyancer
