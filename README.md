@@ -15,7 +15,6 @@ Over the past few years, I have revisited my childhood hobby of computer program
 | [Bank Tech Test](https://github.com/willhowes/bank_tech_test) | A solo tech test modelling bank transactions |  Ruby |
 
 ## Skills
-I have outlined below some of the skills I have gained from attending Makers Academy; online and adult education courses; and self-led learning. 
 
 #### Building software
 The example projects above from the repositories on my Github profile, show projects I have built on my own and in teams. I write clean code and readable code so that other developers I work with are able to read and understand my code quickly.
