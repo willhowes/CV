@@ -60,7 +60,7 @@ Two adult education evening classes:
 * Designing standard letters, forms, checklists and guidance leaflets for clients
 * Updating colleagues with legislative and transactional changes to conveyancing
 
-#### Streeter Marshall LLP** (November 2011 to August 2017) - Trainee/Licensed Conveyancer
+#### Streeter Marshall LLP (November 2011 to August 2017) - Trainee/Licensed Conveyancer
 * I started here as a trainee and quickly progressed to become an experienced conveyancer with a large client base
 * I ran the conveyancer’s training programme for the Law Society's Conveyancing Quality Scheme and helped to design standard forms and letters. 
 
