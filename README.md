@@ -19,7 +19,7 @@ In recent years, I revisited my childhood hobby of computer programming through 
 ## Skills
 
 #### Building software
-The example projects above from the repositories on my Github profile, show projects I have built on my own and in teams. I write clean code and readable code so that other developers I work with are able to read and understand my code quickly.
+The examples above show projects I have built on my own and in teams. I write clean and readable code so that other developers can understand my code quickly.
 
 #### Quick Learner
 One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy, I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress.
