@@ -36,7 +36,7 @@ At Makers I have learned and used agile working tools such as stand-ups, retros 
 ## Education
 
 #### Makers Academy (June-Sept 2019)
-A 12 week intensive coding bootcamp with an emphasis on:
+A 12-week intensive coding bootcamp with an emphasis on:
 * Object Orientated Programming
 * TDD
 * Agile working practices
@@ -57,20 +57,20 @@ Two adult education evening classes:
 ## Experience
 
 #### Adams & Remers LLP (August 2017 to June 2019) - Licensed Conveyancer
-* Managing a large case-load of residential property transactions. 
-* Regular communication with clients and other stakeholders as to the progress of a transaction. 
+* Managing a large case-load of residential property transactions 
+* Regular communication with clients and other stakeholders 
 * Designing standard letters, forms, checklists and guidance leaflets for clients
-* Updating colleagues with legislative and transactional changes to conveyancing
+* Updating colleagues with legislative and transactional changes
 
 #### Streeter Marshall LLP (November 2011 to August 2017) - Trainee/Licensed Conveyancer
-* I started here as a trainee and quickly progressed to become an experienced conveyancer with a large client base
-* I ran the conveyancer’s training programme for the Law Society's Conveyancing Quality Scheme and helped to design standard forms and letters. 
+* I started here as a trainee and quickly progressed to become an experienced conveyancer with a large client base.
+* I ran the conveyancers' training programme for the Law Society's Conveyancing Quality Scheme and helped to design standard forms and letters. 
 
-## Personal Interests and Responsibilities
-* Writing and playing music (guitar/piano/synth) and going to gigs
+## Personal interests and responsibilities
+* Director & Company Secretary for the freehold company that owns the block of flats I live in
+* I write my own music and play the guitar, bass, piano and synth
 * Running - I take part in and volunteering for 5k/10k/Half Marathon races
 * Long-suffering supporter of the England Men's Cricket Team
-* Director & Company Secretary for the freehold company that owns the block of flats I live in.
 
 ## References
 Professional and personal references are available on request.
