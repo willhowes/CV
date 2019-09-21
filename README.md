@@ -1,6 +1,11 @@
 <h1 align=center> Will Howes </h1>
 <h2 align=center>Software Developer</h2>
 
+<div align=center> 
+<a href="https://medium.com/@williameldenhowes"><img src="/medium_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/will-howes-12a9b529/"><img src="/linkedIn_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
+</div>
+
 <div align=center><a href="https://github.com/willhowes/CV#projects">Projects</a> | <a href="https://github.com/willhowes/CV#skills">Skills</a> | <a href="https://github.com/willhowes/CV#education">Education</a> |  <a href="https://github.com/willhowes/CV#experience">Experience</a> | <a href="https://github.com/willhowes/CV#personal-interests-and-responsibilities">Personal Interests</a> | <a href="https://www.linkedin.com/in/will-howes-12a9b529/" target="_blank">LinkedIn</a> |  <a href="https://medium.com/@williameldenhowes" target="_blank">Blog</a> |</div>
 
 ## Profile
