@@ -1,7 +1,7 @@
 <h1 align=center> Will Howes </h1>
 <h2 align=center>Software Developer</h2>
 
-<div align=center><a href="https://github.com/willhowes/CV#projects">Projects</a> | <a href="https://github.com/willhowes/CV#skills">Skills</a> | <a href="https://github.com/willhowes/CV#education">Education</a>|  <a href="https://github.com/willhowes/CV#experience">Experience</a> | <a href="https://github.com/willhowes/CV#personal-interests-and-responsibilities">Personal Interests</a> | <a href="https://www.linkedin.com/in/will-howes-12a9b529/" target="_blank">LinkedIn</a> |  <a href="https://medium.com/@williameldenhowes" target="_blank">Blog</a> |</div>
+<div align=center><a href="https://github.com/willhowes/CV#projects">Projects</a> | <a href="https://github.com/willhowes/CV#skills">Skills</a> | <a href="https://github.com/willhowes/CV#education">Education</a> |  <a href="https://github.com/willhowes/CV#experience">Experience</a> | <a href="https://github.com/willhowes/CV#personal-interests-and-responsibilities">Personal Interests</a> | <a href="https://www.linkedin.com/in/will-howes-12a9b529/" target="_blank">LinkedIn</a> |  <a href="https://medium.com/@williameldenhowes" target="_blank">Blog</a> |</div>
 
 ## Profile
 I am a Software Developer, recently graduated from Makers Academy, actively looking for new work opportunities.
