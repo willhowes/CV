@@ -22,10 +22,10 @@ In recent years, I revisited my childhood hobby of computer programming through 
 The examples above show projects I have built on my own and in teams. I write clean and readable code so that other developers can understand my code quickly.
 
 #### Quick Learner
-One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy, I have honed my self-led learning to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress.
+One of many reasons I was attracted to a career as a developer is the ever-changing nature of technology, which means I will always be learning something new. At Makers Academy, I have honed my self-led learning approach to become highly effective at setting my learning goals, researching for learning materials and monitoring my progress.
 
 #### Team Work and Communication
-At Makers we have learned and practiced agile working tools such as stand-ups, retros and sprints. By encouraging the use of these practices, together with using my coding and communication skills, I make valuable contributions to the teams I work in.  
+At Makers I have learned and used agile working tools such as stand-ups, retros and sprints. I make valuable contributions to the teams I work in by actively engaging in these practices, and using the excellent communication skills I have developed throughout my previous career.  
 
 #### Technologies I have used
 | Lanuages        | Frameworks and other technologies          | Testing Frameworks  | Processes |
