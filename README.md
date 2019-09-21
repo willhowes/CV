@@ -6,7 +6,7 @@
 ## Profile
 I am a Software Developer, recently graduated from Makers Academy, actively looking for new work opportunities.
 
-In recent years, I revisited my childhood hobby of computer programming through adult education courses, online tutorials and various books. Having rekindled my love of coding, this June after careful consideration, I left my previous career as a Licensed Conveyancer and embarked on the 12-week coding bootcamp at Makers. I have progressed from an enthusiastic amateur coder to a confident and competent software developer. The journey has been fun and rewarding. I am looking forward to continuing to learn in my first role as a developer and beyond.
+In recent years, I revisited my childhood hobby of computer programming through adult education courses, online tutorials and various books. Having rekindled my love of coding, this June after careful consideration, I left my previous career as a Licensed Conveyancer and embarked on the 12-week coding bootcamp at Makers. I have progressed from an enthusiastic amateur coder to a confident and competent software developer. The journey has been fun and rewarding. I am looking forward to combining my existing work experience with my new-found skills and continuing to learn in my first role as a developer and beyond.
 
 ## Projects
 | Project        | Description          | Technologies  |
