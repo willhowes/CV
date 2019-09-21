@@ -1,5 +1,7 @@
-<h1 align=center>Will Howes</h1>
-<h4 align=center>Software Developer</h1>
+<div align=center>
+<h1>Will Howes</h1>
+<h3>Software Developer</h3>
+</div>
 
 <div align=center> 
 <a href="https://medium.com/@williameldenhowes"><img src="/medium_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
