@@ -3,9 +3,9 @@
 <h3>Software Developer</h3>
 </div>
 
-<div align=center> 
-<a href="https://medium.com/@williameldenhowes"><img src="/medium_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
+<div align=center>
 <a href="https://www.linkedin.com/in/will-howes-12a9b529/"><img src="/linkedIn_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
+<a href="https://medium.com/@williameldenhowes"><img src="/medium_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
 </div>
 
 </br>
@@ -77,10 +77,10 @@ Two adult education evening classes:
 
 ## Personal interests and responsibilities
 * Director & Company Secretary for the freehold company that owns the block of flats I live in
-* I am a mentor to two Makers Academy students
-* I run an annual Pro Evolution Soccer tournament
-* I write my own music and play the guitar, bass, piano and synth
-* Running - I take part in and volunteering for 5k/10k/Half Marathon races
+* Mentor to two Makers Academy students
+* Run an annual Pro Evolution Soccer tournament
+* Write my own music and play the guitar, bass, piano and synth
+* Take part in and am a volunteer steward for 5k/10k/Half Marathon races
 * Long-suffering supporter of the England Men's Cricket Team
 
 ## References
