@@ -77,6 +77,7 @@ Two adult education evening classes:
 
 ## Personal interests and responsibilities
 * Director & Company Secretary for the freehold company that owns the block of flats I live in
+* I am a mentor to two Makers Academy students
 * I write my own music and play the guitar, bass, piano and synth
 * Running - I take part in and volunteering for 5k/10k/Half Marathon races
 * Long-suffering supporter of the England Men's Cricket Team
