@@ -48,6 +48,7 @@ At Makers I have learned and used agile working tools such as stand-ups, retros 
 A 12-week intensive coding bootcamp with an emphasis on:
 * Object Orientated Programming
 * TDD
+* Self-led learning
 * Agile working practices
 * XP Values
 * Pair programming  
