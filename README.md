@@ -13,7 +13,7 @@
 <div align=center><a href="https://github.com/willhowes/CV#projects">Projects</a> | <a href="https://github.com/willhowes/CV#skills">Skills</a> | <a href="https://github.com/willhowes/CV#education">Education</a> |  <a href="https://github.com/willhowes/CV#experience">Experience</a> | <a href="https://github.com/willhowes/CV#personal-interests-and-responsibilities">Personal Interests</a> | <a href="https://www.linkedin.com/in/will-howes-12a9b529/" target="_blank">LinkedIn</a> |  <a href="https://medium.com/@williameldenhowes" target="_blank">Blog</a> |</div>
 
 ## Profile
-I am a Software Developer, recently graduated from Makers Academy, actively looking for new work opportunities.
+I am a Software Developer, recently graduated from Makers Academy, with 15 years’ previous experience in the legal sector.
 
 In recent years, I revisited my childhood hobby of computer programming through adult education courses, online tutorials and various books. Having rekindled my love of coding, this June after careful consideration, I left my previous career as a Licensed Conveyancer and embarked on the 12-week coding bootcamp at Makers. I have progressed from an enthusiastic amateur coder to a confident and competent software developer. The journey has been fun and rewarding. I am looking forward to combining my existing work experience with my new-found skills and continuing to learn in my first role as a developer and beyond.
 
