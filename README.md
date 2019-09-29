@@ -39,7 +39,7 @@ At Makers I have learned and used agile working tools such as stand-ups, retros 
 #### Technologies I have used
 | Lanuages        | Frameworks and other technologies          | Testing Frameworks  | Processes |
 | ------------- |-------------| -----| -----|
-| Ruby, Javascript, Python, HTML, CSS | Ruby-on-Rails, jQuery, React, Ajax requests, Sinatra, Postgres, Heroku, Travis CI | Rspec, Capybara, Jasmine, Cypress, Jest | Agile, TDD, Object Orientated Programming, the Model-View-Controller, Pair Programming, Domain Modelling |
+| Ruby, Javascript, Python, HTML, CSS | Rails, jQuery, React, Ajax requests, Sinatra, Postgres, Heroku, Travis CI | Rspec, Capybara, Jasmine, Cypress, Jest | Agile, TDD, Object Orientated Programming, the Model-View-Controller, Pair Programming, Domain Modelling |
 
 
 ## Education
