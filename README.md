@@ -6,7 +6,6 @@
 <div align=center>
 <a href="https://www.linkedin.com/in/will-howes-12a9b529/"><img src="/linkedIn_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
 <a href="https://medium.com/@williameldenhowes"><img src="/medium_button.png" alt="medium logo" hspace="50" height="42" width="42" style="max-width:100%;"></a>
-<img src="https://www.codewars.com/users/willhowes/badges/micro">
 </div>
 
 </br>
