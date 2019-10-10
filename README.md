@@ -79,6 +79,7 @@ Two adult education evening classes:
 ## Personal interests and responsibilities
 * Director & Company Secretary for the freehold company that owns the block of flats I live in
 * Mentor to two Makers Academy students
+* Coach at CodeBar Brighton
 * Run an annual Pro Evolution Soccer tournament
 * Write my own music and play the guitar, bass, piano and synth
 * Take part in and am a volunteer steward for 5k/10k/Half Marathon races
